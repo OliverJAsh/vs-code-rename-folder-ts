@@ -1,2 +1,2 @@
-import * as f from './foo/main';
+import * as f from './Foo/main';
 f;
